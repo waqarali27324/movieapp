@@ -1,6 +1,7 @@
 # sample_app
 
 A new Flutter project.
+All the project is following MVC Pattern along with Getx-StateManagement.
 
 ## Getting Started
 
